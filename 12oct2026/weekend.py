@@ -1,5 +1,6 @@
- day=char(input("enter a day"))
- if day==saturday and day==sunday:
+ day = input("enter a day: ")
+
+ if day == "saturday" or day == "sunday":
     print("weekend")
 else:
     print("weekday")
