@@ -1,0 +1,1 @@
+print("mr.john".removeprefix("mr."))

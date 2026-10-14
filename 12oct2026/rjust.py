@@ -1,0 +1,1 @@
+print("hii".rjust(5))

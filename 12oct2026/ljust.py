@@ -1,1 +1,1 @@
-print("")
+print("hi".ljust(5))
